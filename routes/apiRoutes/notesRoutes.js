@@ -17,7 +17,7 @@ router.post('/notes', (req, res) => {
   res.json(createNewNote(req.body, notesArray));
 });
 
-// route parameters
+// route parameters for adding delete function
 router.delete('/notes/:id', async (req, res) => {
   const { id } = req.params
   notesArray = await deleteNote(id, notesArray);
