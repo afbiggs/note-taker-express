@@ -4,11 +4,24 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Alex Biggs",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afbiggs/note-taker-express.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afbiggs/note-taker-express.js/issues"
+  },
+  "homepage": "https://github.com/afbiggs/note-taker-express.js#readme"
 }
