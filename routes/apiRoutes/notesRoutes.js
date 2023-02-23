@@ -19,7 +19,7 @@ router.post('./lib/notes', (req, res) => {
 });
 
 // route parameters for adding delete function
-router.deleteNote('/notes/:id', async (req, res) => {
+router.delete('/notes/:id', async (req, res) => {
   const { id } = req.params
   notesArray = await deleteNote(id, notesArray);
   res.json(notesArray);
