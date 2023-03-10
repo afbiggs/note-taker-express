@@ -22,7 +22,7 @@ Deployed Application via Heroku: https://note-taker-express-ab.herokuapp.com/
   ## Installation Instructions
   in order to use the application, either visit the heroku hosted link bellow, or clone the repository to your local machine. you will then need to install the node modules by running *npm i* in order to initiate them.  
 
-![](
+![](https://github.com/afbiggs/note-taker-express/blob/main/public/Note%20Taker%20landing%20page%20.png)
 
   ## Usage
   
