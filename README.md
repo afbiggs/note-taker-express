@@ -33,6 +33,7 @@ Deployed Application via Heroku: https://note-taker-express-ab.herokuapp.com/
   
   * Testing has only be ran locally through deployment of the application
  
+ ![](https://github.com/afbiggs/note-taker-express/blob/main/public/Note%20Taker%20Main%20Page%20.png)
   
   ## License
   
